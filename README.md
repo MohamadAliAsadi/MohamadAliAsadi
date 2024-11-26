@@ -27,13 +27,6 @@
 
 ---
 
-### 🚀 Goals
-- 🌟 Become an expert in **Artificial Intelligence** and **Machine Learning**.
-- 🔍 Build projects that improve user experience and solve meaningful problems.
-- 🌱 Continuously learn and share knowledge with the developer community.
-
----
-
 ### 📫 Contact Me
 <p align="center">
   <a href="https://github.com/MohamadAliAsadi" target="_blank">
