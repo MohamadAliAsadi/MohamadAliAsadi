@@ -7,9 +7,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔧 Experienced in **Python** and **PHP** with strong knowledge of **databases**.
-- 🎯 Currently learning **Computer Vision** and exploring the exciting world of **Artificial Intelligence**.
-- 💡 Love working on innovative projects that combine technology and creativity.
+- 🔧 Experienced in **Python**, **Machine Learning**, and **Web Development**.  
+- 🎯 Currently diving into the fascinating world of **Deep Learning** and exploring advanced concepts in **Artificial Intelligence**.  
+- 💡 Passionate about leveraging technology to create innovative and impactful solutions.  
+
 
 ---
 
