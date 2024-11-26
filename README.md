@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔧 Experienced in **Python**, **Machine Learning**, and **Web Development**.  
+- 🔧 Experienced in **Python**, **Machine Learning**, and **Backend Development**.  
 - 🎯 Currently diving into the fascinating world of **Deep Learning** and exploring advanced concepts in **Artificial Intelligence**.  
 - 💡 Passionate about leveraging technology to create innovative and impactful solutions.  
 
