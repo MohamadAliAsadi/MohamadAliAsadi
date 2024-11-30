@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohammad Ali Asadi 👋</h1>
+<h1 align="center">Hi, I'm Mohamad Ali Asadi 👋</h1>
 
 <p align="center">
   <i>A Python Developer passionate about AI, creativity, and solving real-world problems.</i>
